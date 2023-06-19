@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.1, created on 2023-05-18 21:22:32
+/* Smarty version 4.3.1, created on 2023-05-29 17:36:50
   from 'module:ps_searchbarps_searchbar.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.1',
-  'unifunc' => 'content_64667af8344e81_73227321',
+  'unifunc' => 'content_6474c692255c52_33310564',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_64667af8344e81_73227321 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6474c692255c52_33310564 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- begin /home/vagrant/code/prestashop8/modules/ps_searchbar/ps_searchbar.tpl -->
 <div id="search_widget" class="search-widgets" data-search-controller-url="<?php echo htmlspecialchars((string) $_smarty_tpl->tpl_vars['search_controller_url']->value, ENT_QUOTES, 'UTF-8');?>
 ">

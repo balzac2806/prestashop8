@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.1, created on 2023-05-18 21:22:31
+/* Smarty version 4.3.1, created on 2023-05-29 17:36:49
   from 'module:ps_customtextps_customtext.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.1',
-  'unifunc' => 'content_64667af7a90c34_21938441',
+  'unifunc' => 'content_6474c691ab8641_93401432',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,8 +20,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_64667af7a90c34_21938441 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '19722589164667af7a8ea49_58278392';
+function content_6474c691ab8641_93401432 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '12807741566474c691ab6af4_89796559';
 ?>
 <!-- begin /home/vagrant/code/prestashop8/modules/ps_customtext/ps_customtext.tpl -->
 <div id="custom-text">

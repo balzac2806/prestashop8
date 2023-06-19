@@ -1,0 +1,2 @@
+*ERROR* 	v8.1.0	2023/05/29 - 14:45:27: Link to database cannot be established: SQLSTATE[HY000] [1049] Unknown database &#039;prestashop&#039; at line 119 in file classes/db/DbPDO.php
+*ERROR* 	v8.1.0	2023/05/29 - 14:59:11: SQLSTATE[42S02]: Base table or view not found: 1146 Table &#039;prestashop.ps_shop_url&#039; doesn&#039;t exist at line 151 in file classes/db/DbPDO.php

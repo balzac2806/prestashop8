@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.1, created on 2023-05-18 21:22:32
+/* Smarty version 4.3.1, created on 2023-05-29 17:36:50
   from 'module:ps_customeraccountlinksps_customeraccountlinks.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.1',
-  'unifunc' => 'content_64667af8532029_00713818',
+  'unifunc' => 'content_6474c6923dc122_62236907',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,9 +20,9 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_64667af8532029_00713818 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6474c6923dc122_62236907 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'/home/vagrant/code/prestashop8/vendor/smarty/smarty/libs/plugins/modifier.count.php','function'=>'smarty_modifier_count',),));
-$_smarty_tpl->compiled->nocache_hash = '103850653064667af84f9fa3_04219019';
+$_smarty_tpl->compiled->nocache_hash = '20572375056474c6923bb5a2_17635889';
 ?>
 <!-- begin /home/vagrant/code/prestashop8/themes/classic/modules/ps_customeraccountlinks/ps_customeraccountlinks.tpl -->
 <div id="block_myaccount_infos" class="col-md-3 links wrapper">
